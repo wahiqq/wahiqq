@@ -1,26 +1,90 @@
-<h1 align="center">Hi 👋, I'm Wahiq Iqbal</h1>
-<h3 align="center">Passionate Product Designer with 2+ Years of Experience in Crafting User-Centric Solutions, Driving Collaborative Innovation, and Enhancing Team Dynamics.</h3>
+<h1 align="center">Hi, I'm Wahiq Iqbal</h1>
 
-- 🔭 I’m currently working for **Sibling and KREA University**
-
-- 👯 I’m open for opportunities in **Product Design & UI/UX**
-
-- 🌱 I’m currently **chilling and designing**
-
-- 👨‍💻 All of my projects are available at [dribbble.com/wahiqq](dribbble.com/wahiqq)
-
-- 💬 Ask me about **design and design and everything related to design**
-
-- 📫 How to reach me **iamwahiqiqbal@gmail.com or even LinkedIN @wahiqq**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wahiqiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahiqiqbal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wahiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahiqq" height="30" width="40" /></a>
-<a href="https://instagram.com/wahiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahiqq" height="30" width="40" /></a>
-<a href="https://dribbble.com/wahiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wahiqq" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Growth+Hacker;Automation+%26+Operations+Specialist;No-Code+%2F+Low-Code+Builder;Systems+that+Scale+%26+Convert" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a></p>
+<p align="center">
+  Building systems that grow, automate, and operate at scale.<br/>
+  Currently @ <strong>RISE Research</strong>
+</p>
 
+---
+
+- 🔭 Working at **RISE Research**
+- 🌱 Deep into **growth experiments, workflow automations, and ops infrastructure**
+- 💬 Ask me about **growth hacking, marketing automation, no-code/low-code, and operations**
+- 📫 Reach me at **iamwahiqiqbal@gmail.com** or **LinkedIn @wahiqq**
+
+---
+
+<h3 align="left">Connect</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/wahiqq" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahiqq" height="30" width="40" />
+  </a>
+  <a href="https://dribbble.com/wahiqq" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wahiqq" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Tools & Stack</h3>
+
+**⚡ Automation & Integrations**
+<p align="left">
+  <a href="https://n8n.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" alt="n8n" width="40" height="40"/></a>
+  <a href="https://make.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/make_integromat/make_integromat-icon.svg" alt="make" width="40" height="40"/></a>
+  <a href="https://zapier.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
+</p>
+
+**📈 Growth, CRM & Marketing**
+<p align="left">
+  <a href="https://www.hubspot.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="40" height="40"/></a>
+  <a href="https://mailchimp.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="40" height="40"/></a>
+  <a href="https://www.clay.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/75971339?s=200&v=4" alt="clay" width="40" height="40"/></a>
+  <a href="https://www.apollo.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78461249?s=200&v=4" alt="apollo" width="40" height="40"/></a>
+</p>
+
+**🗂️ Ops & Data**
+<p align="left">
+  <a href="https://airtable.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="40" height="40"/></a>
+  <a href="https://notion.so/" target="_blank"><img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="40" height="40"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
+</p>
+
+**🤖 AI & Intelligent Workflows**
+<p align="left">
+  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a>
+</p>
+
+**🛠️ Dev & Deployment**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
+  <a href="https://webflow.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+
+**🎨 Design**
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.framer.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahiqq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wahiq's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahiqq&theme=tokyonight&hide_border=true" alt="Wahiq's streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahiqq&theme=tokyo-night&hide_border=true&area=true" alt="Wahiq's activity graph" />
+</p>
