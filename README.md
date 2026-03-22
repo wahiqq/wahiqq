@@ -36,8 +36,8 @@
 
 **⚡ Automation & Integrations**
 <p align="left">
-  <a href="https://n8n.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" alt="n8n" width="40" height="40"/></a>
-  <a href="https://make.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/make_integromat/make_integromat-icon.svg" alt="make" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/n8n-1.svg" alt="n8n" width="40" height="40"/></a>
+  <a href="https://make.com/" target="_blank"><img src="https://www.make.com/favicon.png" alt="make" width="40" height="40"/></a>
   <a href="https://zapier.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
 </p>
 
@@ -58,7 +58,9 @@
 
 **🤖 AI & Intelligent Workflows**
 <p align="left">
-  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://cdn.openai.com/API/brand-assets/favicons/shortcut-icon.png" alt="openai" width="40" height="40"/></a>
+  <a href="https://claude.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/114554919?s=200&v=4" alt="claude" width="40" height="40"/></a>
+  <a href="https://lovable.dev/" target="_blank"><img src="https://www.lovable.dev/og-image.png" alt="lovable" width="40" height="40"/></a>
 </p>
 
 **🛠️ Dev & Deployment**
