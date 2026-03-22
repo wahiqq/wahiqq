@@ -39,6 +39,7 @@
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&style=flat&logoColor=white" alt="n8n" width="40" height="40"/></a>
   <a href="https://make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/79289083?s=200&v=4" alt="make" width="40" height="40" style="border-radius:8px"/></a>
   <a href="https://zapier.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
+  <a href="https://www.activepieces.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99494700?s=200&v=4" alt="activepieces" width="40" height="40" style="border-radius:8px"/></a>
 </p>
 
 **📈 Growth, CRM & Marketing**
@@ -47,13 +48,17 @@
   <a href="https://mailchimp.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="40" height="40"/></a>
   <a href="https://www.clay.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/75971339?s=200&v=4" alt="clay" width="40" height="40"/></a>
   <a href="https://www.apollo.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78461249?s=200&v=4" alt="apollo" width="40" height="40"/></a>
+  <a href="https://instantly.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/101183400?s=200&v=4" alt="instantly" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://www.lemlist.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36641705?s=200&v=4" alt="lemlist" width="40" height="40" style="border-radius:8px"/></a>
 </p>
 
 **🗂️ Ops & Data**
 <p align="left">
   <a href="https://airtable.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="40" height="40"/></a>
-  <a href="https://notion.so/" target="_blank"><img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="40" height="40"/></a>
+  <a href="https://notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?logo=notion&style=flat&logoColor=white" alt="notion" width="40" height="40"/></a>
   <a href="https://slack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
+  <a href="https://www.google.com/sheets/about/" target="_blank"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&style=flat&logoColor=white" alt="google sheets" width="40" height="40"/></a>
+  <a href="https://linear.app/" target="_blank"><img src="https://img.shields.io/badge/Linear-5E6AD2?logo=linear&style=flat&logoColor=white" alt="linear" width="40" height="40"/></a>
 </p>
 
 **🤖 AI & Intelligent Workflows**
@@ -62,6 +67,8 @@
   <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141827168?s=200&v=4" alt="lovable" width="40" height="40" style="border-radius:8px"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&style=flat&logoColor=white" alt="claude" width="40" height="40"/></a>
   <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&style=flat&logoColor=white" alt="anthropic" width="40" height="40"/></a>
+  <a href="https://cursor.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/123456066?s=200&v=4" alt="cursor" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&style=flat&logoColor=white" alt="perplexity" width="40" height="40"/></a>
 </p>
 
 **🛠️ Dev & Deployment**
@@ -71,6 +78,7 @@
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://webflow.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&style=flat&logoColor=white" alt="supabase" width="40" height="40"/></a>
 </p>
 
 **🎨 Design**
@@ -80,6 +88,18 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+---
+
+<h3 align="left">What I Build</h3>
+
+| Area | Focus |
+|------|-------|
+| 🔁 **Automation** | End-to-end workflow automation across sales, ops, and marketing using n8n, Make, and Zapier |
+| 📊 **Growth Systems** | Outbound pipelines, lead enrichment, and conversion-focused experiments |
+| 🧠 **AI Workflows** | LLM-powered automations for research, content, and data processing |
+| 🗃️ **Ops Infrastructure** | Internal tools, SOPs, and data pipelines that keep teams running lean |
+| 🌐 **No-Code Products** | Full products and landing pages built with Webflow, Framer, and Lovable |
 
 ---
 
