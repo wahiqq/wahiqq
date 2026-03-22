@@ -37,7 +37,7 @@
 **⚡ Automation & Integrations**
 <p align="left">
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&style=flat&logoColor=white" alt="n8n" width="40" height="40"/></a>
-  <a href="https://make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/79289083?s=200&v=4" alt="make" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://make.com/" target="_blank"><img src="https://img.shields.io/badge/Make-B02DE9?style=flat&logoColor=white" alt="make" width="40" height="40"/></a>
   <a href="https://zapier.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
   <a href="https://www.activepieces.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99494700?s=200&v=4" alt="activepieces" width="40" height="40" style="border-radius:8px"/></a>
 </p>
@@ -46,9 +46,9 @@
 <p align="left">
   <a href="https://www.hubspot.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="40" height="40"/></a>
   <a href="https://mailchimp.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="40" height="40"/></a>
-  <a href="https://www.clay.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/75971339?s=200&v=4" alt="clay" width="40" height="40"/></a>
-  <a href="https://www.apollo.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78461249?s=200&v=4" alt="apollo" width="40" height="40"/></a>
-  <a href="https://instantly.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/101183400?s=200&v=4" alt="instantly" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://www.clay.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/clayrun/clayrun-icon.svg" alt="clay" width="40" height="40"/></a>
+  <a href="https://www.apollo.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apolloio/apolloio-icon.svg" alt="apollo" width="40" height="40"/></a>
+  <a href="https://instantly.ai/" target="_blank"><img src="https://img.shields.io/badge/Instantly-0081FF?style=flat&logoColor=white" alt="instantly" width="40" height="40"/></a>
   <a href="https://www.lemlist.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36641705?s=200&v=4" alt="lemlist" width="40" height="40" style="border-radius:8px"/></a>
 </p>
 
@@ -67,7 +67,7 @@
   <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141827168?s=200&v=4" alt="lovable" width="40" height="40" style="border-radius:8px"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&style=flat&logoColor=white" alt="claude" width="40" height="40"/></a>
   <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&style=flat&logoColor=white" alt="anthropic" width="40" height="40"/></a>
-  <a href="https://cursor.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/123456066?s=200&v=4" alt="cursor" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white" alt="cursor" width="40" height="40"/></a>
   <a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&style=flat&logoColor=white" alt="perplexity" width="40" height="40"/></a>
 </p>
 
@@ -104,8 +104,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahiqq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wahiq's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahiqq&theme=tokyonight&hide_border=true" alt="Wahiq's streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wahiqq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Wahiq's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahiqq&theme=tokyonight&hide_border=true&hide=currentStreak,longestStreak" alt="Wahiq's streak" height="165"/>
 </p>
 
 <p align="center">
