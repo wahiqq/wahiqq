@@ -36,8 +36,8 @@
 
 **⚡ Automation & Integrations**
 <p align="left">
-  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/n8n-1.svg" alt="n8n" width="40" height="40"/></a>
-  <a href="https://make.com/" target="_blank"><img src="https://www.make.com/favicon.png" alt="make" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&style=flat&logoColor=white" alt="n8n" width="40" height="40"/></a>
+  <a href="https://make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/79289083?s=200&v=4" alt="make" width="40" height="40" style="border-radius:8px"/></a>
   <a href="https://zapier.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
 </p>
 
@@ -58,9 +58,10 @@
 
 **🤖 AI & Intelligent Workflows**
 <p align="left">
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.openai.com/API/brand-assets/favicons/shortcut-icon.png" alt="openai" width="40" height="40"/></a>
-  <a href="https://claude.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/114554919?s=200&v=4" alt="claude" width="40" height="40"/></a>
-  <a href="https://lovable.dev/" target="_blank"><img src="https://www.lovable.dev/og-image.png" alt="lovable" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-000000?logo=openai&style=flat&logoColor=white" alt="openai" width="40" height="40"/></a>
+  <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141827168?s=200&v=4" alt="lovable" width="40" height="40" style="border-radius:8px"/></a>
+  <a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&style=flat&logoColor=white" alt="claude" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&style=flat&logoColor=white" alt="anthropic" width="40" height="40"/></a>
 </p>
 
 **🛠️ Dev & Deployment**
